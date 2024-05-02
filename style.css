@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  
+    background-image: url('https://img.pikbest.com/ai/illus_our/20230523/41fabf8a82dd6e4276924070a29f2634.jpg!w700wp');
+}
+header {
+    background-color: #130f0f00;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+main {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.left-bar,
+.right-bar {
+    flex-basis: 45%;
+    background-color: #f6f6f673;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+}
+.crystal {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px ;
+    margin: 100px;
+border-radius: 50%;
+    background-color: #fff5f681;
+}
+footer .crystal img {
+    width: 100px;
+    height: 100px;
+
+}
