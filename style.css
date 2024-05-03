@@ -4,6 +4,9 @@ body {
     padding: 0;
   
     background-image: url('https://img.pikbest.com/ai/illus_our/20230523/41fabf8a82dd6e4276924070a29f2634.jpg!w700wp');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
 }
 header {
     background-color: #130f0f00;
